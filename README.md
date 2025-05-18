@@ -34,6 +34,10 @@ You can try Haxe directly from your browser at [try.haxe.org](https://try.haxe.o
 
 For more information about Haxe, head to the [official Haxe website](https://haxe.org).
 
+## Development Roadmap
+
+Our goal is to include legacy scientific simulation and numerical computing technologies such as Fortran, Ada, Eiffel, Jython, Julia, Racket, Clojure, Octave, Modelica and Scilab.
+
 ## License
 
 The Haxe project has several licenses, covering different parts of the projects.
